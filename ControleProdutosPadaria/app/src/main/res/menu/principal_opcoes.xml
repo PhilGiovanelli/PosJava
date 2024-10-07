@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuNovoProduto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@android:drawable/ic_input_add"
+        android:onClick="novoProduto"
+        android:title="@string/adicionar"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuItemOrdenacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_action_asc"
+        android:title="@string/ordenacao"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menuSobre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="sobre"
+        android:title="@string/sobre" />
+</menu>

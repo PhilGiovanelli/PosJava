@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nomeProduto">
+        <item>@string/paoDoce</item>
+        <item>@string/mousseDeLimao</item>
+        <item>@string/beirute</item>
+        <item>@string/coxinhaDeFrango</item>
+        <item>@string/boloDeCenoura</item>
+        <item>@string/paoDeQueijo</item>
+        <item>@string/brevidade</item>
+        <item>@string/pudimDeLeite</item>
+        <item>@string/tortaDeMorango</item>
+        <item>@string/banoffe</item>
+
+    </string-array>
+
+    <string-array name="localProduto">
+        <item>@string/mesa</item>
+        <item>@string/vitrineGelada</item>
+        <item>@string/vitrineGelada</item>
+        <item>@string/vitrineQuente</item>
+        <item>@string/mesa</item>
+        <item>@string/vitrineQuente</item>
+        <item>@string/mesa</item>
+        <item>@string/vitrineGelada</item>
+        <item>@string/vitrineGelada</item>
+        <item>@string/vitrineGelada</item>
+
+    </string-array>
+
+    <string-array name="tipoProduto">
+        <item>@string/paes</item>
+        <item>@string/doces</item>
+        <item>@string/salgados</item>
+        <item>@string/salgados</item>
+        <item>@string/bolos</item>
+        <item>@string/paes</item>
+        <item>@string/doces</item>
+        <item>@string/doces</item>
+        <item>@string/doces</item>
+        <item>@string/doces</item>
+    </string-array>
+
+    <integer-array name="validade">
+        <item>3</item>
+        <item>7</item>
+        <item>3</item>
+        <item>3</item>
+        <item>7</item>
+        <item>3</item>
+        <item>12</item>
+        <item>21</item>
+        <item>7</item>
+        <item>12</item>
+    </integer-array>
+
+</resources>

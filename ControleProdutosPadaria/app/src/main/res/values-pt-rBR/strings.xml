@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Produtos de Padaria"</string>
+    <string name="produto">Produto</string>
+    <string name="limpar">Limpar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="erro_nome">O Produto precisa ter um nome!</string>
+    <string name="mesa">Mesa</string>
+    <string name="localProduto">"Local do produto: "</string>
+    <string name="vitrineGelada">Vitrine Gelada</string>
+    <string name="vitrineQuente">Vitrine Quente</string>
+    <string name="campos_limpos">Campos limpos!</string>
+    <string name="foi_adicionado">" foi adicionado!"</string>
+    <string name="doces">Doces</string>
+    <string name="salgados">Salgados</string>
+    <string name="bolos">Bolos</string>
+    <string name="paes">Pães</string>
+    <string name="validade">"Prazo de validade: "</string>
+    <string name="selecioneCampo">Selecione um local para o produto!</string>
+    <string name="foi_selecionado">" foi selecionado!"</string>
+    <string name="selecione_uma_categoria_de_produto">Selecione uma categoria de produto</string>
+    <string name="tresDias">3 dias</string>
+    <string name="seteDias">7 dias</string>
+    <string name="dozeDias">12 dias</string>
+    <string name="vinteEUmDias">21 dias</string>
+
+    <string name="paoDoce">"Pão doce"</string>
+    <string name="mousseDeLimao">"Mousse de limão"</string>
+    <string name="beirute">"Beirute"</string>
+    <string name="coxinhaDeFrango">"Coxinha de frango"</string>
+    <string name="boloDeCenoura">"Bolo de cenoura"</string>
+    <string name="paoDeQueijo">"Pão de queijo"</string>
+    <string name="brevidade">"Brevidade"</string>
+    <string name="pudimDeLeite">"Pudim de leite"</string>
+    <string name="tortaDeMorango">"Torta de morango"</string>
+    <string name="banoffe">"Banoffe"</string>
+    <string name="dias">Dias</string>
+    <string name="validade1">"Validade: "</string>
+    <string name="local_do_produto">"Local do produto: "</string>
+    <string name="tipo_do_produto">"Tipo do Produto: "</string>
+    <string name="produto1">"Produto: "</string>
+    <string name="sobre">Sobre</string>
+    <string name="funcionalidades">"Aplicativo desenvolvido para o controle de produção de um padeiro "</string>
+    <string name="autor">Autor: Philippe Giovanelli C. Andrade</string>
+    <string name="disciplina">Especialização em Java</string>
+    <string name="email">philippe.giovanelli@hotmail.com</string>
+    <string name="universidade_federal_do_parana">Universidade Federal do Paraná</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="novo_produto">Novo Produto</string>
+    <string name="editar_produto">Editar Produto</string>
+    <string name="ordenacao">Ordenação</string>
+    <string name="foi_clicado">foi clicado!</string>
+    <string name="diaas">" dias."</string>
+    <string name="aviso">Aviso</string>
+    <string name="ok">OK</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="deseja_realmente_apagar">Deseja realmente apagar?</string>
+    <string name="erro_ao_tentar_inserir">erro ao tentar inserir!</string>
+    <string name="erro_ao_tentar_alterar">erro ao tentat alterar!</string>
+    <string name="erro_ao_tentar_apagar">erro ao tentar apagar!</string>
+
+</resources>
